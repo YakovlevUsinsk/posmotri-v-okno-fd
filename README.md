@@ -1,3 +1,3 @@
 # Проект "Посмотри в окно"
 
-[Посмотри в окно](https://github.com/yandex-praktikum/posmotri-v-okno-fd)
+[Посмотри в окно](https://github.com/YakovlevUsinsk/posmotri-v-okno-fd.git)
